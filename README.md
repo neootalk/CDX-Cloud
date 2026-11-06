@@ -1,5 +1,4 @@
 # CDX-Cloud
-Open-source Codex Cloud development environment. Reusable configurations, AI coding instructions, automated setup scripts, Node.js tooling, and GitHub Actions for building, testing, and maintaining projects with OpenAI Codex.
 
 Reusable development environment for **OpenAI Codex** and **Claude Code**. It provides shared AI engineering rules, agent-specific workspace configuration, safe environment templates, setup and verification scripts, and GitHub Actions checks.
 
